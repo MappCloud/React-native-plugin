@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MappCloud/React-native-plugin/tree/push_messages_fix"
+    "url": "git+https://github.com/MappCloud/React-native-plugin/tree/windows_build"
   },
   "bugs": {
     "url": "https://github.com/MappCloud/React-native-plugin/issues"
